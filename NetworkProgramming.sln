@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeServer", "TimeServer\TimeServer.csproj", "{A420762A-6A41-4543-A3E5-D31BDC22A74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClient", "TimeClient\TimeClient.csproj", "{17830BE7-31A3-4401-A656-8EC5BDD7082E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A420762A-6A41-4543-A3E5-D31BDC22A74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A420762A-6A41-4543-A3E5-D31BDC22A74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A420762A-6A41-4543-A3E5-D31BDC22A74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A420762A-6A41-4543-A3E5-D31BDC22A74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17830BE7-31A3-4401-A656-8EC5BDD7082E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17830BE7-31A3-4401-A656-8EC5BDD7082E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17830BE7-31A3-4401-A656-8EC5BDD7082E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17830BE7-31A3-4401-A656-8EC5BDD7082E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
