@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClient", "TimeClient\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FauxChat", "FauxChat\FauxChat.csproj", "{43634F3A-F359-4CF1-B633-695EF17CC306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWord-MMO2", "OpenWord-MMO2\OpenWord-MMO2.csproj", "{75C6B33F-D4FE-48C5-8711-0C4F0B0C0362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{43634F3A-F359-4CF1-B633-695EF17CC306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43634F3A-F359-4CF1-B633-695EF17CC306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43634F3A-F359-4CF1-B633-695EF17CC306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C6B33F-D4FE-48C5-8711-0C4F0B0C0362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C6B33F-D4FE-48C5-8711-0C4F0B0C0362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C6B33F-D4FE-48C5-8711-0C4F0B0C0362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C6B33F-D4FE-48C5-8711-0C4F0B0C0362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
